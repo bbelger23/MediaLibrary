@@ -1,0 +1,17 @@
+2022-03-02 19:15:17.4704|INFO|MediaLibrary.Program|Program started
+2022-03-02 19:15:17.4921|INFO|MediaLibrary.Program|Program ended
+2022-03-02 19:20:05.6840|INFO|MediaLibrary.Program|Program started
+2022-03-02 19:20:05.7094|INFO|MediaLibrary.Program|Program ended
+2022-03-02 19:22:22.0283|INFO|MediaLibrary.Program|Program started
+2022-03-02 19:22:22.0514|INFO|MediaLibrary.Program|Program ended
+2022-03-02 19:25:37.8127|INFO|MediaLibrary.Program|Program started
+2022-03-02 19:25:37.8347|INFO|MediaLibrary.Program|Program ended
+2022-03-02 19:28:14.1886|INFO|MediaLibrary.Program|Program started
+2022-03-02 19:28:14.2122|INFO|MediaLibrary.Program|Program ended
+2022-03-02 19:31:37.9468|INFO|MediaLibrary.Program|Program started
+2022-03-02 19:31:37.9727|INFO|MediaLibrary.Program|Program ended
+2022-03-02 19:43:47.1720|INFO|MediaLibrary.Program|Program started
+2022-03-02 19:43:47.2080|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-03-02 19:43:47.2258|INFO|MediaLibrary.FileScrubber|File scrub ended
+2022-03-02 19:43:47.2258|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-02 19:43:47.2258|INFO|MediaLibrary.Program|Program ended

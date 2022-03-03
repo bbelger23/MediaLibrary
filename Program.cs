@@ -60,6 +60,11 @@ namespace MediaLibrary
                         {
                             movie.genres.Add("(no genres listed)");
                         }
+                        // ask user to input director
+                        Console.WriteLine("Enter director");
+                        // input director
+                        movie.director = Console.ReadLine();
+                        
                         // add movie
                         movieFile.AddMovie(movie);
                     }

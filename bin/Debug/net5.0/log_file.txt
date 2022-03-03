@@ -15,3 +15,8 @@
 2022-03-02 19:43:47.2258|INFO|MediaLibrary.FileScrubber|File scrub ended
 2022-03-02 19:43:47.2258|INFO|MediaLibrary.Program|movies.scrubbed.csv
 2022-03-02 19:43:47.2258|INFO|MediaLibrary.Program|Program ended
+2022-03-02 20:40:08.2338|INFO|MediaLibrary.Program|Program started
+2022-03-02 20:40:08.3083|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2022-03-02 20:40:10.6891|INFO|MediaLibrary.Program|User choice: "2"
+2022-03-02 20:40:43.4278|INFO|MediaLibrary.Program|User choice: ""
+2022-03-02 20:40:43.4278|INFO|MediaLibrary.Program|Program ended

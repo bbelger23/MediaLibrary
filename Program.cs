@@ -64,7 +64,10 @@ namespace MediaLibrary
                         Console.WriteLine("Enter director");
                         // input director
                         movie.director = Console.ReadLine();
-                        
+                        // ask user to input runtime
+                        Console.WriteLine("Enter the runtime(h:m:s)");
+                        // input runtime
+                        movie.runningTime = TimeSpan.Parse(Console.ReadLine());
                         // add movie
                         movieFile.AddMovie(movie);
                     }
